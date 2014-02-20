@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var min = require('min');
-var max = require('max');
+var min = require('component-min');
+var max = require('component-max');
 
 /**
  * Bin `data` into `total` bins.

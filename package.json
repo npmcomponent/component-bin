@@ -1,0 +1,18 @@
+{
+  "name": "component-bin",
+  "description": "data distribution binning",
+  "version": "0.3.0",
+  "keywords": [
+    "binning",
+    "distribution",
+    "distribute",
+    "stats",
+    "statistics",
+    "histogram"
+  ],
+  "dependencies": {
+    "component-min": "git://github.com/npmcomponent/component-min.git",
+    "component-max": "git://github.com/npmcomponent/component-max.git"
+  },
+  "license": "MIT"
+}
